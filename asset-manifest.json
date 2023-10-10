@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Nzubechukwu93/react_deploy_gh/static/css/main.412c8660.css",
-    "main.js": "/Nzubechukwu93/react_deploy_gh/static/js/main.ee46e0f2.js",
-    "index.html": "/Nzubechukwu93/react_deploy_gh/index.html",
-    "main.412c8660.css.map": "/Nzubechukwu93/react_deploy_gh/static/css/main.412c8660.css.map",
-    "main.ee46e0f2.js.map": "/Nzubechukwu93/react_deploy_gh/static/js/main.ee46e0f2.js.map"
+    "main.css": "/https//Nzubechukwu93.github.io/static/css/main.412c8660.css",
+    "main.js": "/https//Nzubechukwu93.github.io/static/js/main.ee46e0f2.js",
+    "index.html": "/https//Nzubechukwu93.github.io/index.html",
+    "main.412c8660.css.map": "/https//Nzubechukwu93.github.io/static/css/main.412c8660.css.map",
+    "main.ee46e0f2.js.map": "/https//Nzubechukwu93.github.io/static/js/main.ee46e0f2.js.map"
   },
   "entrypoints": [
     "static/css/main.412c8660.css",
